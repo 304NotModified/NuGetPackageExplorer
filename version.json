@@ -1,12 +1,3 @@
-{
-  "version": "5.3",
-  "publicReleaseRefSpec": [
-    "^refs/heads/master$", // we release out of master
-    "^refs/heads/dev$", // we release out of develop
-    "^refs/tags/v\\d+\\.\\d+", // we also release tags starting with vN.N
-    "^refs/heads/rel/v\\d+\\.\\d+" // we also release tags starting with vN.N
-  ],
-  "nugetPackageVersion":{
-    "semVer": 2
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e163a793e8d84e097e1f54c419cf207f8867e212976d1745507d844bff643d7e
+size 375
